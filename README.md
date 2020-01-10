@@ -1,6 +1,6 @@
 # Personal CI Runner Image
 
-This repo exists soley for me to use as a base image for the GitLab CI shared runner
+This repo exists soley for me to use as a base image for the GitLab CI shared runner.
 
 # Credits
 
